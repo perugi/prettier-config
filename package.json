@@ -1,0 +1,23 @@
+{
+  "name": "@perugi/prettier-config",
+  "version": "1.0.0",
+  "description": "My Prettier configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perugi/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "author": "Dominik Perusko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perugi/prettier-config/issues"
+  },
+  "homepage": "https://github.com/perugi/prettier-config#readme"
+}
