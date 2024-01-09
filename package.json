@@ -2,7 +2,7 @@
   "name": "@perugi/prettier-config",
   "version": "1.0.0",
   "description": "My Prettier configuration.",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
